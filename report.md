@@ -17,6 +17,7 @@ Overall, this task helped me dive into supervised learning models, making predic
 **Matplotlib** is a Python library for creating visualizations, especially useful in data analysis for plotting data trends, distributions, and comparisons. I explored several plot types—like bar, stacked, histogram, violin, pie, line, and area plots—and learned how to use labels, legends, and subplots. This helped me understand each plot’s purpose in presenting different data insights.
 
 This image includes some of the plots I made.
+![Plots](https://github.com/user-attachments/assets/84f13cb3-54bd-4ba6-b09d-5e494e560522)
 
 [Plots](https://github.com/bakeyed/AIML-001-Level-2/blob/main/Plots.ipynb)
 
@@ -35,6 +36,10 @@ Metrics and Performance Evaluation are essential in machine learning to assess h
 **Classification metrics** such as accuracy, precision, recall, F1 score, and AUC-ROC evaluate the effectiveness of models in predicting discrete classes.
 
 This task helped me evaluate my model and consider different optimization techniques to help solve issues.
+![Formulas](https://github.com/user-attachments/assets/4c2a853c-6c57-4a2a-99c6-91e37bb2086f)
+![Confusion Matrix](https://github.com/user-attachments/assets/152b053f-78dd-4154-acf2-b41a6e6229a4)
+
+
 
 ## Task 5: Linear and Logistic Regression from Scratch
 
@@ -44,9 +49,15 @@ In this task, I implemented Linear and Logistic Regression models from scratch, 
 
 **Logistic Regression** predicts a binary outcome using the sigmoid function, which helps separate classes. While commonly used for binary classification, it can also be adapted for multiclass problems. This implementation enhanced my grasp of both models and their applications in data analysis.
 
+[Linear Regression](https://github.com/bakeyed/AIML-001-Level-2/blob/main/LinearRegression.py)
+[Logistic Regression](https://github.com/bakeyed/AIML-001-Level-2/blob/main/LogisticRegression.py)
+
 ## Task 6: K-Nearest Neighbor Algorithm
 
 KNN classifies data by identifying the 'k' closest examples and using majority voting to determine the predicted class. This approach effectively distinguishes between different iris species based on sepal and petal measurements.
+
+![KNN](https://github.com/user-attachments/assets/d28b87cb-a9a1-4af8-adb7-63b35f11f14d)
+
 
 [KNN](https://github.com/bakeyed/AIML-001-Level-2/blob/main/KNN.ipynb)
 
@@ -59,7 +70,14 @@ KNN classifies data by identifying the 'k' closest examples and using majority v
 In this task, I deepened my understanding of the mathematical constructs fundamental to machine learning algorithms.
 
 1.  **Curve Fitting**: I modeled a curve fitting for the cardioid function using Desmos.
+![WhatsApp Image 2024-10-26 at 22 08 51_5d8bd034](https://github.com/user-attachments/assets/44a5eda2-444b-4e8c-b2ed-c866207744c8)
+
+
 2.  **Fourier Transforms**: I watched a 3Blue1Brown video on Fourier transforms. Although I didn't have access to MATLAB, I observed its application through a YouTube video. I'm also learning more about Fourier transforms in my M3 course.
+3.  ![FT1](https://github.com/user-attachments/assets/64a37138-07ad-4c11-ae62-54cca9c441c0)
+4.  ![3b1b](https://github.com/user-attachments/assets/b4a98c52-501f-4843-bbc3-dfcffce7a57d)
+
+
 
 ## Task 9: Data Visualization for Exploratory Data Analysis
 
@@ -67,6 +85,7 @@ In this task, I deepened my understanding of the mathematical constructs fundame
 
 Plotly is an open-source, interactive graphing library for Python that allows users to create a variety of charts, including 3D graphs, financial charts, and statistical charts. This makes visualizations more dynamic and facilitates exploratory data visualization
 I created an interactive bubble chart on the different types of pet owners in Bangalore. This chart is more interactive than a simple plot, allowing users to engage with the data and explore trends more effectively. The interactivity enhances the overall experience, making it easier to understand and analyze the data presented.
+![Plotly](https://github.com/user-attachments/assets/74b967f2-258c-4d44-aa35-9091ef819234)
 [Plotly](https://github.com/bakeyed/AIML-001-Level-2/blob/main/Plotly.ipynb)
 
 ## Task 10: An introduction to Decision Trees
@@ -74,6 +93,9 @@ I created an interactive bubble chart on the different types of pet owners in Ba
 A Decision Tree is a supervised learning algorithm used for regression or classification tasks. It structures conditional statements in a hierarchy to predict outcomes based on input features, making it easy to interpret decisions.
 
 **Components of a Decision Tree**:
+
+![Decision Tree](https://github.com/user-attachments/assets/50052383-d9bf-4c52-a4f0-65bd414bef14)
+
 
 - **Root Node:** The topmost node that represents the entire dataset and splits into branches based on the best feature.
 - **Branches:** Lines that connect nodes, representing outcomes of decisions made at a parent node, leading to either another node or a leaf node.
@@ -89,5 +111,7 @@ Support Vector Machines (SVM) are supervised learning methods used to create a n
 I used SVM to predict the probability of breast cancer using a dataset from sklearn. A crucial aspect of improving the model’s performance is normalization.
 Normalization adjusts the scales of features, ensuring that each one contributes equally to the distance calculations performed by the SVM. This process enhances prediction accuracy and helps the model converge more quickly. By scaling features to a consistent range, normalization facilitates the optimal selection of the hyperplane.
 I plan to explore normalization techniques further in future work to understand their impact on model performance and accuracy.
+
+![SVM](https://github.com/user-attachments/assets/1212e242-994b-4055-a8be-32f7b0e45175)
 
 [SVM](https://github.com/bakeyed/AIML-001-Level-2/blob/main/SVM.ipynb)
