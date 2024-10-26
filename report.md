@@ -36,7 +36,8 @@ Metrics and Performance Evaluation are essential in machine learning to assess h
 **Classification metrics** such as accuracy, precision, recall, F1 score, and AUC-ROC evaluate the effectiveness of models in predicting discrete classes.
 
 This task helped me evaluate my model and consider different optimization techniques to help solve issues.
-![Formulas](https://github.com/user-attachments/assets/4c2a853c-6c57-4a2a-99c6-91e37bb2086f)
+![Formulas](https://github.com/user-attachments/assets/ca8603f7-c503-4390-88c1-6b059e03e99d)
+
 ![Confusion Matrix](https://github.com/user-attachments/assets/152b053f-78dd-4154-acf2-b41a6e6229a4)
 
 
