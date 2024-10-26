@@ -9,11 +9,12 @@ Neural networks have an input layer, hidden layers that process information, and
 
 1. **Artificial Neural Network (ANN)**  
    Modeled after the human brain, ANNs are also known as feedforward networks. They use interconnected nodes, backpropagation, and activation functions, supporting both classification and regression.
-   ![ANN](https://github.com/user-attachments/assets/8996e0d0-4c87-45eb-ba03-ce591d6ba6b8)
+   
 
 
    **Advantages:** Operates with incomplete knowledge, stores information across the network, and is relatively error-tolerant.  
    **Disadvantages:** High hardware dependency and relies on trial and error for tuning.
+   ![ANN](https://github.com/user-attachments/assets/8996e0d0-4c87-45eb-ba03-ce591d6ba6b8)
 
 ### 2. Convolutional Neural Network (CNN)
 
