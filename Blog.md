@@ -1,3 +1,4 @@
+
 ## Neural Networks
 
 A neural network is a machine learning model that mimics the human brain to process data and solve complex problems. Each neuron receives input from other neurons, processes it, and transmits an output to subsequent neurons. Neural networks learn from training data by adjusting the weights associated with connections between neurons.
@@ -8,6 +9,8 @@ Neural networks have an input layer, hidden layers that process information, and
 
 1. **Artificial Neural Network (ANN)**  
    Modeled after the human brain, ANNs are also known as feedforward networks. They use interconnected nodes, backpropagation, and activation functions, supporting both classification and regression.
+   ![ANN](https://github.com/user-attachments/assets/8996e0d0-4c87-45eb-ba03-ce591d6ba6b8)
+
 
    **Advantages:** Operates with incomplete knowledge, stores information across the network, and is relatively error-tolerant.  
    **Disadvantages:** High hardware dependency and relies on trial and error for tuning.
@@ -16,11 +19,17 @@ Neural networks have an input layer, hidden layers that process information, and
 
 Example: multilayer perceptron with convolutional and pooling layers, primarily used in image classification and object detection tasks. CNNs process information non-linearly, allowing them to identify features like textures or shapes in images (e.g., detecting parts of a cat's face by matching pixel patterns).
 
+![CNN](https://github.com/user-attachments/assets/62eb14fe-0c8e-434a-8066-265a26679652)
+
+
 **Disadvantages:** Limited ability to capture spatial data such as position and orientation. Requires large training datasets for accuracy.
 
 ### 3. Recurrent Neural Network (RNN)
 
 RNNs are designed for sequential data, featuring feedback loops that allow the output to be fed back into the model, enabling self-learning. They retain memory of previous inputs, making them ideal for language models, translation, and autocomplete tasks.
+
+![RNN](https://github.com/user-attachments/assets/8c3110a3-c7d9-4c45-8d63-fbe3c7b6047a)
+
 
 **Challenges:** Difficult to train due to gradient vanishing and exploding issues.
 
