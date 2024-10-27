@@ -71,8 +71,7 @@ KNN classifies data by identifying the 'k' closest examples and using majority v
 In this task, I deepened my understanding of the mathematical constructs fundamental to machine learning algorithms.
 
 1.  **Curve Fitting**: I modeled a curve fitting for the cardioid function using Desmos.
-![WhatsApp Image 2024-10-26 at 22 08 51_5d8bd034](https://github.com/user-attachments/assets/44a5eda2-444b-4e8c-b2ed-c866207744c8)
-
+[Cardioid](https://github.com/user-attachments/assets/eecdf951-37a1-4df3-9e15-cfcea8f23d88)
 
 2.  **Fourier Transforms**: I watched a 3Blue1Brown video on Fourier transforms. Although I didn't have access to MATLAB, I observed its application through a YouTube video. I'm also learning more about Fourier transforms in my M3 course.
 3.  ![FT1](https://github.com/user-attachments/assets/64a37138-07ad-4c11-ae62-54cca9c441c0)
